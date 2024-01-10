@@ -1,0 +1,16 @@
+h1, tr {
+    text-align: center;
+}
+
+h1 {
+    color: navy;
+}
+
+tr {
+    color: purple;
+}
+
+table {
+    display: flex;
+    justify-content: center;
+}
