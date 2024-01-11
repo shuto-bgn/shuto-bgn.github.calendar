@@ -4,10 +4,12 @@ h1, tr {
 
 h1 {
     color: navy;
+    font-size: 70px;
 }
 
 tr {
     color: purple;
+    font-size: 35px;
 }
 
 table {
